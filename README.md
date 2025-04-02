@@ -20,6 +20,8 @@
 
 ---
 
+👉 [정리된 전체 링크 모음 보기](https://jelkov-developer.notion.site/Page-routing-1bbc23f3073480caa7c3f86024445a11?pvs=4)
+
 ## 📁 Next.js PageRouting 1
 ### 1. 페이지 라우팅 기본 개념 설명
 - Next.js 라우팅 vs React Router
@@ -31,8 +33,6 @@
 - 404 페이지 커스터마이징
 - 라우팅 총정리
 
-👉 [정리된 전체 링크 모음 보기](https://www.notion.so/1-Next-js-React-Router-1bbc23f3073480309df0ea83d13f6bab?pvs=21)
-
 ---
 
 ## 📁 Next.js PageRouting 2
@@ -43,7 +43,6 @@
 - 필터링 검색 기능 구현
 - 최종 마무리까지 실습 진행
 
-👉 [실습 흐름 Notion 정리 보기](https://www.notion.so/1-Page-Router-1bbc23f30734803a9ce2cd2d8ac54c30?pvs=21)
 
 ---
 
@@ -55,7 +54,6 @@
 - 클라이언트 사이드 데이터 패칭(useEffect + SWR)
 - Firebase와의 연동까지 정리
 
-👉 [사전 렌더링 + 데이터 패칭 Notion 정리](https://www.notion.so/1-React-Next-js-1bdc23f3073480f2bd69e54b793dff78?pvs=21)
 
 ---
 
@@ -66,7 +64,6 @@
 - getServerSideProps로 필터 페이지 구현
 - SSG/SSR/SWR 전략을 실전 예제와 함께 정리
 
-👉 [실습 위주 정리 보기](https://www.notion.so/1-Next-js-Firebase-SEO-1c0c23f30734803ba059d51e5c38406e?pvs=21)
 
 ---
 
@@ -77,7 +74,6 @@
 - 이미지 최적화
 - 모든 페이지 공통 Head 처리 방식
 
-👉 [최적화 전략 정리 보기](https://www.notion.so/1-Next-js-head-next-head-1c1c23f307348060961be1220f894462?pvs=21)
 
 ---
 
@@ -88,7 +84,6 @@
 - 동적 API 라우트
 - `/feedback` 페이지와 getStaticProps 결합
 
-👉 [API 라우트 핵심 개념 정리](https://www.notion.so/1-API-1c1c23f307348068a97ce30f61421a6f?pvs=21)
 
 ---
 
@@ -99,7 +94,6 @@
 - MongoDB Atlas 연동 (뉴스레터 + 댓글)
 - 에러 핸들링 및 동적 API 테스트
 
-👉 [MongoDB & API 연동 정리 보기](https://www.notion.so/1-Next-js-1c2c23f30734806289bded564510294a?pvs=21)
 
 ### 8. 전역 Notification 시스템 구현
 - Context API를 사용한 알림 시스템 구축
@@ -107,7 +101,17 @@
 - Newsletter 및 댓글 등록 시 알림 연동
 - Notification + Loading 메시지 동시 처리
 
-👉 [전역 상태 관리 및 알림 정리](https://www.notion.so/1-React-Next-js-Notification-1c4c23f3073480669a69d4dc774e7766?pvs=21)
+
+---
+
+## 📁 Next.js PageRouting Auth
+### 9. 인증 기능 통합 프로젝트 (NextAuth.js 기반)
+- Credentials 기반 로그인 / 회원가입 구현
+- MongoDB와 연동된 사용자 인증 처리
+- JWT 기반 세션 전략 적용
+- 로그인 후 인증 상태 유지 및 리디렉션 처리
+- 인증된 사용자만 접근 가능한 보호 라우트 구현
+- 프로필 페이지에서 비밀번호 변경 기능 구현 (서버/API 보호)
 
 ---
 
