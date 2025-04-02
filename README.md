@@ -15,6 +15,7 @@
 | `Next.js PageRouting 5` | 🔁 메타데이터 & 이미지 최적화, Next.js 앱 최적화 하기 |
 | `Next.js PageRouting 6` | 🔗 API 라우트 구조 및 응답 처리, API 라우트 개념 |
 | `Next.js PageRouting 7` | ⚠️ API 실습 + MongoDB 연동, Notification 시스템 구축 |
+| `Next.js PageRouting Auth` | 🔐 NextAuth.js 기반 사용자 인증 및 보호 라우트 구현 |
 
 > 각 프로젝트 폴더에는 실습용 컴포넌트 및 정리된 개념이 함께 포함되어 있습니다.
 
